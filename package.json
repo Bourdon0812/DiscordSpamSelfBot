@@ -1,0 +1,16 @@
+{
+  "name": "spammer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Spammer.js",
+  "dependencies": {
+    "discord.js-selfbot-v11": "^11.5.1",
+    "readline": "^1.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
